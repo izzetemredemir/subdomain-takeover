@@ -97,6 +97,7 @@ if os.stat("/home/ubuntu/results.txt").st_size > 0:
 0 */6 * * *  /home/ubuntu/test.sh
 ```
 
+You can check [this list](https://github.com/EdOverflow/can-i-take-over-xyz) for available vulnerability
 #### References
 Main inspiration: [How To Setup an Automated Sub-domain Takeover Scanner for All Bug Bounty Programs in 5 Minutes](https://hakluke.medium.com/how-to-setup-an-automated-sub-domain-takeover-scanner-for-all-bug-bounty-programs-in-5-minutes-3562eb621db3)<br />
 [The Best Source Patrik Hudak](https://0xpatrik.com/)<br />

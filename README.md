@@ -4,6 +4,8 @@ But it can still be improved and made really functional. <br />
 In summary, I built a bot that searches for subdomain takeover vulnerabilities on all websites that are in bug bounty programs. <br />
 I wrote a crontab command to run every 6 hours and it sends the domains it finds into the telegram channel.
 
+![Subdomain Takeover](https://raw.githubusercontent.com/izzetemredemir/subdomain-takeover/main/ss.png)
+
 ## What is Subdomain Takeover?
 > A subdomain takeover occurs when an attacker gains control over a subdomain of a target domain.
 Simply, We somehow take over a forgotten subdomain.
